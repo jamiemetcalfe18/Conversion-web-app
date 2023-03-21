@@ -1,5 +1,9 @@
 A web app that converts things! This was a test to test my basic javascript, css, and html skills as well as make myself better!
 
+
+The purpose of this app is to get me more practice with javascript and expand my knowledge!
+
+
 Things to implement:
 -Freedom units to celsius
 -lbs to kgs
